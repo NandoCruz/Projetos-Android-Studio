@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestandoToast</string>
+    <string name="edtNome" />
+    <string name="btnOK">OK</string>
+</resources>
