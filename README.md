@@ -2,7 +2,7 @@
 
 ## Projetos criados no Android Studio
 
-### Feito por Fernando Cruz
+### Feito por:
 
 ![AssinaturaOnLine](https://user-images.githubusercontent.com/47435625/113785553-c0350000-970d-11eb-9fdf-e7b78477fc4a.png)
 
